@@ -1,0 +1,39 @@
+etape 1
+
+je veux enregistre la note des etudiant
+
+etape 1 Le professeur se connecte
+
+ id int
+ email int
+mot_de_passe string
+pseudo string 
+    nom string 
+    prenom string 
+
+
+
+    etape 2 Le professeur enregistre les matieres
+     
+    id  int
+    nom_de la matiere int 
+    id prof int
+
+
+    etape 3 Le professeur enregistre les   étudiants
+
+    id int 
+    nom_etudiant string 
+    prenom etudiant string 
+    
+
+
+    etape 4 Le professeur enregistre les notes des étudiants
+
+id int
+id etudiant  string
+id matiere string
+note string 
+
+
+
